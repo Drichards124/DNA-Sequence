@@ -8,6 +8,9 @@
 - Python Version: 3.10.12
 - Packages: numpy, matplotlib.pyplot, pandas, seaborn, sklearn.preprocessing.OneHotEncoder, pickle, sklearn.neural_network.MLPClassifier, sklearn.metrics (classification_report, accuracy_score, confusion_matrix), sklearn.model_selection.train_test_split
 - IDE: Google Colab
+- Dataset: Insert Dataset's url directly into your Python code
+
+
 
 
 
