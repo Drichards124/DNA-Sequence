@@ -7,6 +7,8 @@
 - Packages: numpy, matplotlib.pyplot, pandas, seaborn, sklearn.preprocessing.OneHotEncoder, pickle, sklearn.neural_network.MLPClassifier, sklearn.metrics (classification_report, accuracy_score, confusion_matrix), sklearn.model_selection.train_test_split
 - IDE: Google Colab
 
+## [Access Dataset](https://archive.ics.uci.edu/ml/machine-learning-databases/molecular-biology/promoter-gene-sequences/promoters.data)
+
 
 
 
